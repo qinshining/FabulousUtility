@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{522F7FF2-DC1B-47BC-9AF5-D902C02BA4EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TestDemo</RootNamespace>
+    <RootNamespace>QE.TestDemo</RootNamespace>
     <AssemblyName>TestDemo</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
